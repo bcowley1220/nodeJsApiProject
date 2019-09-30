@@ -1,0 +1,26 @@
+{
+  "name": "express-challenge",
+  "version": "1.0.0",
+  "description": "A small coding challenge to implement an API route to query the Google Books API",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nodemon": "^1.19.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docnetwork/express-challenge.git"
+  },
+  "author": "webteam@docnetwork.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docnetwork/express-challenge/issues"
+  },
+  "homepage": "https://github.com/docnetwork/express-challenge#readme"
+}
