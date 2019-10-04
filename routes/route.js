@@ -8,7 +8,7 @@ let myKey = require("../api-key/api");
 const pool = require("../connection");
 // let database = require("../routes/database");
 
-let bookQuery = "Patient";
+let bookQuery = "Patient Zero";
 let body = "";
 let bookQueryList = [];
 let bodyItems;
